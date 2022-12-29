@@ -1,6 +1,6 @@
-#Leet Code Practise
+**#Leet Code Practise**
 
-# 1. Sort_String_and_delete_duplicates
+**1. Sort_String_and_delete_duplicates**
 
 A basic Python script that accepts a list of strings as input and produces a new list with the strings alphabetically sorted and any duplicates removed.
 
